@@ -9,5 +9,8 @@ class Usuario {
       $this -> correo = $correo;
       $this -> contrasenia = $contrasenia;
   }
+  public function getNombre(){
+    
+  }
 
 }
